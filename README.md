@@ -10,7 +10,7 @@ You can find better ones here
 
 I also now have a thriving hatred of Pascal.
 
-## Add Items To Leveled Lists.pas
+## Add To Leveled Lists.pas
 
 Good if you have a pack full of awesome weapons and armor, but no leveled lists to go with them.
 
